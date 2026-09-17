@@ -1,0 +1,5 @@
+{
+    "usernames":["torvalds","gvanrossum","kennethreitz"],
+    "per_page": 5,
+    "output_dir": "output"
+}
